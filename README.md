@@ -130,4 +130,52 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
 
 * <p style="color: blue">Model traning</p>
 * <p style="color: blue">Tesing model performance</p>
+
+<table align="right">
+  <tr>
+    <td><strong>INPUT IMAGE</strong></td>
+     <td><strong>OUTPUT IMAGE</strong></td>
+  </tr>
+  <tr>
+    <td><img src="Images/inp3.png" width="200" title="Input image"></td>
+    <td><p align="center">
+  <img src="Images/inp33.png" width="200" title="Mask-Rcnn output image">
+</p></td>
+  </tr>
+ </table>
+
+
+<table>
+  <tr>
+    <td><strong>INPUT IMAGE</strong></td>
+     <td><strong>OUTPUT IMAGE</strong></td>
+  </tr>
+  <tr>
+    <td><img src="Images/inp1.png" width="200" title="Input image"></td>
+    <td><p align="center">
+  <img src="Images/inp11.png" width="200" title="Mask-Rcnn output image">
+</p></td>
+  </tr>
+ </table>
+ 
+ <table align="right">
+  <tr>
+    <td><img src="Images/inp2.png" width="200" title="Input image"></td>
+    <td><p align="center">
+  <img src="Images/inp22.png" width="200" title="Mask-Rcnn output image">
+</p></td>
+  </tr>
+ </table>
+
+
+<table>
+
+  <tr>
+    <td><img src="Images/inp4.png" width="200" title="Input image"></td>
+    <td><p align="center">
+  <img src="Images/inp44.png" width="200" title="Mask-Rcnn output image">
+</p></td>
+  </tr>
+ </table
+ 
 * <p style="color: blue">Evaluation</p>
