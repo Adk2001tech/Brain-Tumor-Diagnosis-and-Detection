@@ -63,7 +63,7 @@ The main purpose of this project(part i) is to Analysis Image Data and ultimatel
   <img src="Images/part16.png" width="900" title="Tesing model performance">
 </p>
 
-Tumor Detection
+Tumor Detection on Test data:
 <table border="0">
  <tr>
     <td><b style="font-size:30px"> Accuracy</b></td>
@@ -92,3 +92,12 @@ Tumor Detection
      
      
 ## Part II:
+Project(part ii) aims to build an actual DETECTOR(DL Model) which will point out on the location of the tumor on the scan along it's MASK using **Mask R-CNN**.
+
+Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-GitHub</a>.
+* This is an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on **Feature Pyramid Network (FPN) and a ResNet101 backbone**. 
+* Requirements   
+
+        tensorflow=== 1.15.0
+        keras== 2.0.8
+        pycocotools
