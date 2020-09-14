@@ -63,6 +63,10 @@ The main purpose of this project(part i) is to Analysis Image Data and ultimatel
   <img src="Images/part16.png" width="900" title="Tesing model performance">
 </p>
 
+
+<img align="right" width="400" src="Images/clf_model.jpg" width="400" title="Classification Model">
+
+
 Tumor Detection on Test data:
 <table border="0">
  <tr>
@@ -78,7 +82,7 @@ Tumor Detection on Test data:
 </table>
 <br>
 
-<img align="right" width="400" src="Images/clf_model.jpg" width="400" title="Classification Model">
+
 
 #### Classify on You own image📷:
 
