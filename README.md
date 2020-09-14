@@ -57,16 +57,20 @@ The main purpose of this project(part i) is to Analysis Image Data and ultimatel
   <img src="Images/part16.png" width="900" title="Tesing model performance">
 </p>
 
+Tumor Detection
 <table border="0">
  <tr>
     <td><b style="font-size:30px"> Accuracy</b></td>
-    <td><b style="font-size:30px">Tumor Detection precision</b></td>
+    <td><b style="font-size:30px">Precision</b></td>
+   <td><b style="font-size:30px">F1-Score</b></td>
  </tr>
  <tr>
     <td>90%</td>
     <td>86%</td>
+   <td>92%</td>
  </tr>
 </table>
+<br>
 
 <img align="right" width="400" src="Images/clf_model.jpg" width="400" title="Classification Model">
 
