@@ -11,5 +11,5 @@ This Project aim for providing the **Baseline TUMOR detection and classification
 
 <p align="center">
   <img src="Images/out1.png" width="300" title="Input image">
-  <img src="Images/out2.png" width="320" alt="Mask-Rcnn output image">
+  <img src="Images/out2.png" width="300" title="Mask-Rcnn output image">
 </p>
