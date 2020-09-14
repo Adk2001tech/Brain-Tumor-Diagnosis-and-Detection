@@ -27,10 +27,27 @@ The main purpose of this project(part i) is to Analysis Image Data and ultimatel
 **Visit NOTEBOOK for PROJECT PART(I)** 
 
 **Table of Contents** :
-* <p style="color: blue">Image Data Loading </p>
+* <p style="color: blue">Image Data Loading...</p>
 * <p style="color: blue">Visualizing with Colormaps</p>
 * <p style="color: blue">Equalized Hist Technique and K-Means clustring</p>
 * <p style="color: blue">Edge detection</p>
 * <p style="color: blue">Model traning (VGG-16)</p>
 * <p style="color: blue">Tesing model performance</p>
 * <p style="color: blue">Model Evaluation</p>
+
+<p align="center">
+  <img src="Images/part11.png" width="450" title="Image Data">
+  <img src="Images/part12.png" width="450" title="Visualizing with Colormaps">
+</p>
+<br>
+
+
+<p align="center">
+  <img src="Images/part13.png" width="450" title="Equalized Hist Technique and K-Means clustring">
+  <img src="Images/part15.png" width="450" title="Model traning (VGG-16)">
+</p>
+<br>
+
+<p align="center">
+  <img src="Images/part16.png" width="900" title="Tesing model performance">
+</p>
