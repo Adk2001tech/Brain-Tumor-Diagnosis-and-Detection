@@ -14,12 +14,12 @@ Optical imaging and artificial intelligence are making brain tumor diagnosis qui
 This Project aim for providing the **Baseline TUMOR detection and classification model using MASK-RCNN(detection) and DEEP LEAARNING CLASSIFICATION TECHNIQUES**.
 
 * **CLASSIFICATION**
-<p align="center"><img src="Images/brain.png" width="600" title="Input image"></p>
+<p align="center"><img src="Images/brain.png" width="400" title="Input image"></p>
 
 * **TUMOR DETECTION**
 <p align="center">
-  <img src="Images/out1.png" width="300" title="Input image">
-  <img src="Images/out2.png" width="300" title="Mask-Rcnn output image">
+  <img src="Images/out1.png" width="200" title="Input image">
+  <img src="Images/out2.png" width="200" title="Mask-Rcnn output image">
 </p>
 <hr>
 
