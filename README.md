@@ -180,3 +180,17 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
  <br>
  
 * <p style="color: blue">Evaluation</p>
+
+
+
+#### TUMOR Detection on You own image📷:
+
+* Clone GitHub <a href="https://github.com/matterport/Mask_RCNN">Repository</a>
+* Change your directory to `/MASK_RCNN`
+* Download Tumor detection model weights from here.
+* Create `logs` folder, and load/paste `mask_rcnn_tumor.h5` file.
+* Run .py Scripts as below:
+  
+     `python tumor_detect_rcnn.py  relative_path/img.jpg`
+     
+     
