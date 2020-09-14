@@ -11,7 +11,7 @@ Get **MOTIVATED** from **Michigan Medicine's** <a href="https://youtu.be/UZZ08_f
 
 Optical imaging and artificial intelligence are making brain tumor diagnosis quicker and more accurate.
 
-This Project aim for providing the **Baseline TUMOR detection and classification model using MASK-RCNN(detection) and DEEP LEAARNING CLASSIFICATION TECHNIQUES**.
+This Project aim for providing the **Baseline TUMOR detection and classification models using MASK-RCNN(detection) and DEEP LEAARNING CLASSIFICATION TECHNIQUES**.
 
 * **CLASSIFICATION**
 <p align="center"><img src="Images/brain.png" width="400" title="Input image"></p>
