@@ -92,7 +92,7 @@ Tumor Detection on Test data:
      
      `python tumor_classify_vgg16.py  relative_path/img.jpg`
      
-     
+<hr>
      
      
 ## Part II:
