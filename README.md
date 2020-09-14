@@ -7,7 +7,7 @@ Get **MOTIVATED** from **Michigan Medicine's** <a href="https://youtu.be/UZZ08_f
 
 <img src=https://med.umich.edu/branding/images/our-new-logo.png width="35">
 
-<img src="Images/bt2.jpg" width="700" title="Tumor detection">
+<img src="Images/bt2.jpg" width="800" title="Tumor detection">
 
 Optical imaging and artificial intelligence are making brain tumor diagnosis quicker and more accurate.
 
