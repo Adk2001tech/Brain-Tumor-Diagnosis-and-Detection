@@ -36,15 +36,15 @@ The main purpose of this project(part i) is to Analysis Image Data and ultimatel
 * <p style="color: blue">Model Evaluation</p>
 
 <p align="center">
-  <img src="Images/part11.png" width="420" title="Image Data">
-  <img src="Images/part12.png" width="420" title="Visualizing with Colormaps">
+  <img src="Images/part11.png" width="400" title="Image Data">
+  <img src="Images/part12.png" width="400" title="Visualizing with Colormaps">
 </p>
 <br>
 
 
 <p align="center">
-  <img src="Images/part13.png" width="420" title="Equalized Hist Technique and K-Means clustring">
-  <img src="Images/part15.png" width="420" title="Model traning (VGG-16)">
+  <img src="Images/part13.png" width="400" title="Equalized Hist Technique and K-Means clustring">
+  <img src="Images/part15.png" width="400" title="Model traning (VGG-16)">
 </p>
 <br>
 
