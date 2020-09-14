@@ -92,6 +92,7 @@ Tumor Detection on Test data:
      
      
 ## Part II:
+### Brain Tumor Detection
 Project(part ii) aims to build an actual DETECTOR(DL Model) which will point out on the location of the tumor on the scan along it's MASK using **Mask R-CNN**.
 
 Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-GitHub</a>.
