@@ -5,4 +5,11 @@ Brain tumors vary in their position, mass, nature, and consistency of these lesi
 
 <img src="Images/bt2.jpg" width="600" title="Tumor detection">
 
-Optical imaging and artificial intelligence are making brain tumor diagnosis quicker and more accurate. My Project aim for providing the **Baseline TUMOR detection and classification model using MASK-RCNN(detection) and other DEEP LEAARNING TECHNIQUES**. Vist <a href="https://youtu.be/UZZ08_fC7UU">here</a> for more motivation.
+Optical imaging and artificial intelligence are making brain tumor diagnosis quicker and more accurate.
+
+This Project aim for providing the **Baseline TUMOR detection and classification model using MASK-RCNN(detection) and other DEEP LEAARNING TECHNIQUES**. Vist <a href="https://youtu.be/UZZ08_fC7UU">here</a> for more motivation.
+
+<p align="center">
+  <img src="Images/out1.png" width="300" title="hover text">
+  <img src="Images/out2.png" width="310" alt="accessibility text">
+</p>
