@@ -105,3 +105,11 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
         tensorflow=== 1.15.0
         keras== 2.0.8
         pycocotools
+        
+**Visit NOTEBOOK for PROJECT PART(II)** 
+**Table of Contents**
+* <p style="color: blue">Setting up development environment</p>
+* <p style="color: blue">Setting up Model Configuration and Data Generators</p>
+* <p style="color: blue">Model traning</p>
+* <p style="color: blue">Tesing model performance</p>
+* <p style="color: blue">Evaluation</p>
