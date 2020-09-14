@@ -3,9 +3,9 @@
 ## Abstract:
 Brain tumors vary in their position, mass, nature, and consistency of these lesions. Due to the similarities found between brain lesions and normal tissues, many challenges are faced by the researcher in developing algorithms for tumor segmentation. Brain tumor abstraction is thought-provoking job in medical image handing out because brain image and its structure is complicated.
 
-Get **MOTIVATED** from **Michigan Medicine's** <a href="https://youtu.be/UZZ08_fC7UU">YouTube</a> Video. 
+<img align="right" src=https://med.umich.edu/branding/images/our-new-logo.png width="35">
 
-<img src=https://med.umich.edu/branding/images/our-new-logo.png width="35">
+Get **MOTIVATED** from **Michigan Medicine's** <a href="https://youtu.be/UZZ08_fC7UU">YouTube</a> Video. 
 
 <img src="Images/bt2.jpg" width="700" title="Tumor detection">
 
