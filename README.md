@@ -137,9 +137,9 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
      <td><strong>OUTPUT IMAGE</strong></td>
   </tr>
   <tr>
-    <td><img src="Images/inp3.png" width="200" title="Input image"></td>
+    <td><img src="Images/inp3.png" width="180" title="Input image"></td>
     <td><p align="center">
-  <img src="Images/inp33.png" width="200" title="Mask-Rcnn output image">
+  <img src="Images/inp33.png" width="180" title="Mask-Rcnn output image">
 </p></td>
   </tr>
  </table>
@@ -151,9 +151,9 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
      <td><strong>OUTPUT IMAGE</strong></td>
   </tr>
   <tr>
-    <td><img src="Images/inp1.png" width="200" title="Input image"></td>
+    <td><img src="Images/inp1.png" width="180" title="Input image"></td>
     <td><p align="center">
-  <img src="Images/inp11.png" width="200" title="Mask-Rcnn output image">
+  <img src="Images/inp11.png" width="180" title="Mask-Rcnn output image">
 </p></td>
   </tr>
  </table>
