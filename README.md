@@ -34,7 +34,7 @@ Optical imaging and artificial intelligence are making brain tumor diagnosis qui
 
 The main purpose of this project(part i) is to Analysis Image Data and ultimately to build a **CNN model** that would classify if subject has a tumor or not baised on MRI scan. I used the **VGG-16** model architecture and weights to train the model for this binary problem. I used `accuracy` as a metric to justify the model.
 
-**Visit NOTEBOOK for PROJECT PART(I)** 
+**Visit <a href="https://github.com/Adk2001tech/Brain-Tumor-Diagnosis-and-Detection/blob/master/Notebooks/brain-tumor-detection_vgg-16.ipynb">NOTEBOOK</a> for PROJECT PART(I)** 
 
 **Table of Contents** :
 * <p style="color: blue">Image Data Loading...</p>
@@ -88,7 +88,7 @@ Tumor Detection on Test data:
 
 * Download **Python Script** and **Model weights**.
 * Make sure they are loaded in same directory.
-* Run .py Scripts as below:
+* Run .py <a href="https://github.com/Adk2001tech/Brain-Tumor-Diagnosis-and-Detection/blob/master/Py_scripts/tumor_classify_vgg16.py">Script</a> as below:
      
      `python tumor_classify_vgg16.py  relative_path/img.jpg`
      
@@ -110,7 +110,7 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
         keras== 2.0.8
         pycocotools
         
-**Visit NOTEBOOK for PROJECT PART(II)** 
+**Visit <a href="https://github.com/Adk2001tech/Brain-Tumor-Diagnosis-and-Detection/blob/master/Notebooks/brain-tumor-detection-final-mask-r-cnn.ipynb">NOTEBOOK</a> for PROJECT PART(II)** 
 **Table of Contents**
 * <p style="color: blue">Setting up development environment</p>
 
@@ -120,7 +120,7 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
          # Add to System path
          sys.path.append(ROOT_DIR)
       4. Add `logs` folder to keep track of logs and trained models
-     Take a deep dive in **model traing** with  <a href="https://github.com/matterport/Mask_RCNN/blob/master/samples/shapes/train_shapes.ipynb">Notebook1_custom</a> and <a href="https://github.com/matterport/Mask_RCNN">Notebook2_tumor</a>
+     Take a deep dive in **model traing** with  <a href="https://github.com/matterport/Mask_RCNN/blob/master/samples/shapes/train_shapes.ipynb">Notebook1_custom</a> and <a href="https://github.com/Adk2001tech/Brain-Tumor-Diagnosis-and-Detection/blob/master/Notebooks/brain-tumor-detection-final-mask-r-cnn.ipynb">Notebook2_tumor</a>
 * <p style="color: blue">Setting up Model Configuration and Data Generators</p>
 
 
@@ -189,7 +189,7 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
 * Change your directory to `/MASK_RCNN`
 * Download Tumor detection model weights from here.
 * Create `logs` folder, and load/paste `mask_rcnn_tumor.h5` file.
-* Run .py Scripts as below:
+* Run .py <a href="https://github.com/Adk2001tech/Brain-Tumor-Diagnosis-and-Detection/blob/master/Py_scripts/tumor_detect_rcnn.py">Script</a> as below:
   
      `python tumor_detect_rcnn.py  relative_path/img.jpg`
      
