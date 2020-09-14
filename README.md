@@ -7,7 +7,7 @@ Get **MOTIVATED** from **Michigan Medicine's** <a href="https://youtu.be/UZZ08_f
 
 <img src=https://med.umich.edu/branding/images/our-new-logo.png width="35">
 
-<img src="Images/bt2.jpg" width="800" title="Tumor detection">
+<img src="Images/bt2.jpg" width="700" title="Tumor detection">
 
 Optical imaging and artificial intelligence are making brain tumor diagnosis quicker and more accurate.
 
@@ -56,3 +56,29 @@ The main purpose of this project(part i) is to Analysis Image Data and ultimatel
 <p align="center">
   <img src="Images/part16.png" width="900" title="Tesing model performance">
 </p>
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px"> Accuracy</b></td>
+    <td><b style="font-size:30px">Tumor Detection precision</b></td>
+ </tr>
+ <tr>
+    <td>90%</td>
+    <td>86%</td>
+ </tr>
+</table>
+
+<img align="right" width="400" src="Images/clf_model.jpg" width="400" title="Classification Model">
+
+#### Classify on You own image📷:
+
+* Download **Python Script** and **Model weights**.
+* Make sure they are loaded in same directory.
+* Run .py Scripts as below:
+     
+     `python tumor_classify_vgg16.py  relative_path/img.jpg`
+     
+     
+     
+     
+## Part II:
