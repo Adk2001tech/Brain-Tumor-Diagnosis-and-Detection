@@ -110,6 +110,13 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
 **Table of Contents**
 * <p style="color: blue">Setting up development environment</p>
 * <p style="color: blue">Setting up Model Configuration and Data Generators</p>
+
+
+<img align="right"  src="Images/out21.png" width="400" title="Image Data">
+
+<img align="right"  src="Images/out22.png" width="400" title="Visualizing with Colormaps">
+
+
 * <p style="color: blue">Model traning</p>
 * <p style="color: blue">Tesing model performance</p>
 * <p style="color: blue">Evaluation</p>
