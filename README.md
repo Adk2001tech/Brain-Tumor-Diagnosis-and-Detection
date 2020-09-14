@@ -113,6 +113,14 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
 **Visit NOTEBOOK for PROJECT PART(II)** 
 **Table of Contents**
 * <p style="color: blue">Setting up development environment</p>
+
+      1. Clone GitHub <a href="https://github.com/matterport/Mask_RCNN">Repository</a>
+      2. Change your directory to `/MASK_RCNN`
+      3. ROOT_DIR = os.path.abspath('')
+         # Add to System path
+         sys.path.append(ROOT_DIR)
+      4. Add `logs` folder to keep track of logs and trained models
+     Take a deep dive in **model traing** with  <a href="https://github.com/matterport/Mask_RCNN/blob/master/samples/shapes/train_shapes.ipynb">Notebook1_custom</a> and <a href="https://github.com/matterport/Mask_RCNN">Notebook2_tumor</a>
 * <p style="color: blue">Setting up Model Configuration and Data Generators</p>
 
 
