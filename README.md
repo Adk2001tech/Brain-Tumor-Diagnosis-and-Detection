@@ -19,9 +19,9 @@ This Project aim for providing the **Baseline TUMOR detection and classification
      <td><strong>TUMOR DETECTION</strong></td>
   </tr>
   <tr>
-    <td><img src="Images/brain.png" width="400" title="Input image"></td>
+    <td><img src="Images/brain.png" width="300" title="Input image"></td>
     <td><p align="center">
-  <img src="Images/out1.png" width="200" title="Input image">
+  <img src="Images/out1.png" width="180" title="Input image">
   <img src="Images/out2.png" width="200" title="Mask-Rcnn output image">
 </p></td>
   </tr>
