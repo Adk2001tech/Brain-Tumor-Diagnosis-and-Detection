@@ -15,8 +15,8 @@ This Project aim for providing the **Baseline TUMOR detection and classification
 
 <table>
   <tr>
-    <td><strong>TUMOR CLASSIFICATION</strong></td>
-     <td><strong>TUMOR DETECTION</strong></td>
+    <td><strong>TUMOR CLASSIFICATION (Part I)</strong></td>
+     <td><strong>TUMOR DETECTION (Part II)</strong></td>
   </tr>
   <tr>
     <td><img src="Images/brain.png" width="300" title="Input image"></td>
