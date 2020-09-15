@@ -86,9 +86,9 @@ Tumor Detection on Test data:
 
 #### Classify on You own image📷:
 
-* Download **Python Script** and **Model weights**.
+* Download **<a href="https://github.com/Adk2001tech/Brain-Tumor-Diagnosis-and-Detection/blob/master/Py_scripts/tumor_classify_vgg16.py">Python Script</a>** and **<a href="https://drive.google.com/file/d/1RHpLvg3m6BWoJcD90d26dfT4lOjE-15v/view?usp=sharing">Model weights</a>**.
 * Make sure they are loaded in same directory.
-* Run .py <a href="https://github.com/Adk2001tech/Brain-Tumor-Diagnosis-and-Detection/blob/master/Py_scripts/tumor_classify_vgg16.py">Script</a> as below:
+* Run .py Script as below:
      
      `python tumor_classify_vgg16.py  relative_path/img.jpg`
      
@@ -187,7 +187,7 @@ Special thanks to <a href="https://github.com/matterport/Mask_RCNN">Mask-Rnn-Git
 
 * Clone GitHub <a href="https://github.com/matterport/Mask_RCNN">Repository</a>
 * Change your directory to `/MASK_RCNN`
-* Download Tumor detection model weights from here.
+* Download Tumor detection model weights from <a href="https://drive.google.com/file/d/1JsvMGdP4OGano3fn4939HLQHqhQkRPCz/view?usp=sharing">here</a>.
 * Create `logs` folder, and load/paste `mask_rcnn_tumor.h5` file.
 * Run .py <a href="https://github.com/Adk2001tech/Brain-Tumor-Diagnosis-and-Detection/blob/master/Py_scripts/tumor_detect_rcnn.py">Script</a> as below:
   
